@@ -6,7 +6,7 @@
 set -euo pipefail
 
 # ==================== 配置 ====================
-REPO_URL="https://github.com/spladc/cc-pm.git"
+REPO_URL="https://github.com/spladc-creator/cc-pm.git"
 INSTALL_DIR="${CC_PM_HOME:-$HOME/.cc-pm}"
 BASE_DIR=""
 PROFILE_FILES=("$HOME/.zshrc" "$HOME/.bashrc" "$HOME/.bash_profile")
